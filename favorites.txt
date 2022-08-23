@@ -2,3 +2,8 @@
 - Soto
 - Ayam
 - Iga
+
+[Favorite Movies]
+- Inside Man
+- Salt
+- Divergence Series
